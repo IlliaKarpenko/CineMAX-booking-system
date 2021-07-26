@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineMAX booking system", "CineMAX booking system.csproj", "{00B57659-A8A5-4C9D-AC82-EED6874DDE83}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BookingSystemSetup", "..\BookingSystemSetup\BookingSystemSetup.vdproj", "{FDA51D4A-B966-4DDC-B909-7909C308FC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00B57659-A8A5-4C9D-AC82-EED6874DDE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B57659-A8A5-4C9D-AC82-EED6874DDE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B57659-A8A5-4C9D-AC82-EED6874DDE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B57659-A8A5-4C9D-AC82-EED6874DDE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA51D4A-B966-4DDC-B909-7909C308FC53}.Debug|Any CPU.ActiveCfg = Debug
+		{FDA51D4A-B966-4DDC-B909-7909C308FC53}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CB7FAA2-C92A-43BC-8470-931FB55C8877}
+	EndGlobalSection
+EndGlobal
