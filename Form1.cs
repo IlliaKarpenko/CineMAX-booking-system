@@ -30,10 +30,10 @@ namespace Project1
         //database connection info
         public static class Data
         {
-            public static string Server = "cinema.crf0ygpiusdy.eu-central-1.rds.amazonaws.com";
-            public static string Database = "cinema";
-            public static string User = "admin";
-            public static string Password = "ggXepzXPVVzaE4stJ0Vi";
+            public static string Server = "******.******.amazonaws.com";
+            public static string Database = "******";
+            public static string User = "******";
+            public static string Password = "******";
         }
 
         public class DB
